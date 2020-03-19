@@ -38,11 +38,11 @@ avatar: "img/profile picture.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-col: "#00CC66"
+navbar-text-col: "#DFF8EB"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
+link-col: "#00DD74"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
@@ -68,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email: "katie@ameliormate.com"
-  linkedin: worldwidekatie
+  linkedin: katieevanko-douglas
   github: worldwidekatie
   twitter: worldwidekatie
 #  rss: true
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "worldwidekatie.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "worldwidekatie.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
