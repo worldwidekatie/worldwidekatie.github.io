@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
+Katie holds a BA in International Relations and Political Science from the University of Nebraska-Lincoln, though she’s spent most of her career in survey research including 4 years at Gallup and 3 years at the UNL Bureau of Sociological Research. She’s now expanding on that knowledge base by attending Lambda School for data science.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
